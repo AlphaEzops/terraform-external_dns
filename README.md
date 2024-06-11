@@ -4,7 +4,7 @@ Terraform module for deploying [external-dns](https://artifacthub.io/packages/he
 ## Usage
 ```hcl
 module "external_dns" {
-  source               = "git::https://github.com/AlphaEzops/terraform-externaldns.git?ref=v1.0.0"
+  source               = "git::https://github.com/AlphaEzops/terraform-external_dns.git?ref=v1.0.0"
   dns_zone             = ["example.com", "example2.com"]
   cluster_name         = "eks-cluster-name"
   # optionals
