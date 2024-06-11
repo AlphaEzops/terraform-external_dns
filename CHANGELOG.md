@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.0 (2024-06-11)
+
+
+### Features
+
+* Add argocd ([6d6ac79](https://github.com/AlphaEzops/terraform-externaldns/commit/6d6ac798f49aadc751cb9466880e5ac02da35467))
+* Add external dns ([11793e5](https://github.com/AlphaEzops/terraform-externaldns/commit/11793e507798cc3c6344cd1598299b99f64f18dc))
+
 ## [1.1.0](https://github.com/easy-modules/terraform-easy-external-dns/compare/v1.0.0...v1.1.0) (2023-07-24)
 
 
